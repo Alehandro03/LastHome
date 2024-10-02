@@ -1,0 +1,15 @@
+D:\VS\LastWork\LastWork\bin\Debug\net6.0\LastWork.exe
+D:\VS\LastWork\LastWork\bin\Debug\net6.0\LastWork.deps.json
+D:\VS\LastWork\LastWork\bin\Debug\net6.0\LastWork.runtimeconfig.json
+D:\VS\LastWork\LastWork\bin\Debug\net6.0\LastWork.dll
+D:\VS\LastWork\LastWork\bin\Debug\net6.0\LastWork.pdb
+D:\VS\LastWork\LastWork\obj\Debug\net6.0\LastWork.csproj.AssemblyReference.cache
+D:\VS\LastWork\LastWork\obj\Debug\net6.0\LastWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\LastWork\LastWork\obj\Debug\net6.0\LastWork.AssemblyInfoInputs.cache
+D:\VS\LastWork\LastWork\obj\Debug\net6.0\LastWork.AssemblyInfo.cs
+D:\VS\LastWork\LastWork\obj\Debug\net6.0\LastWork.csproj.CoreCompileInputs.cache
+D:\VS\LastWork\LastWork\obj\Debug\net6.0\LastWork.dll
+D:\VS\LastWork\LastWork\obj\Debug\net6.0\refint\LastWork.dll
+D:\VS\LastWork\LastWork\obj\Debug\net6.0\LastWork.pdb
+D:\VS\LastWork\LastWork\obj\Debug\net6.0\LastWork.genruntimeconfig.cache
+D:\VS\LastWork\LastWork\obj\Debug\net6.0\ref\LastWork.dll
